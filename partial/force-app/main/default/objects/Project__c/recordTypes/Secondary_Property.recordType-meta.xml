@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RecordType xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Secondary_Property</fullName>
+    <active>false</active>
+    <label>Secondary Property</label>
+    <picklistValues>
+        <picklist>Country__c</picklist>
+        <values>
+            <fullName>Andorra</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
+        <picklist>Project_Stage__c</picklist>
+        <values>
+            <fullName>Completed</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Concept</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Construction</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Design</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Launch</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
+        <picklist>Project_Status__c</picklist>
+        <values>
+            <fullName>Additional Details</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Define Your Property</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Property Description</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Property Details</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Property Pictures</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
+        <picklist>Property_Proj_Type__c</picklist>
+        <values>
+            <fullName>Apartment</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Builder Floor</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Independent House</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Penthouse</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Plot</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Villa</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+</RecordType>

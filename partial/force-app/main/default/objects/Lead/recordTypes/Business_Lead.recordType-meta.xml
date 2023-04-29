@@ -221,45 +221,24 @@
         </values>
     </picklistValues>
     <picklistValues>
+        <picklist>Lead_Type__c</picklist>
+        <values>
+            <fullName>Buying</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Renting</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Selling</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
         <picklist>MarketsInterestedIn__c</picklist>
         <values>
-            <fullName>Australia</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Dubai%2C UAE</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Japan</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>London%2C UK</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Malaysia</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>New Zealand</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Philippines</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Singapore</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Thailand</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Vietnam</fullName>
+            <fullName>Andorra</fullName>
             <default>false</default>
         </values>
     </picklistValues>
